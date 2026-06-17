@@ -1,0 +1,3 @@
+- Traverse both strings simultaneously.
+- Append one character from each string alternately.
+- Append the remaining characters from the longer string.
